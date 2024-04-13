@@ -1,0 +1,44 @@
+.container{
+    border:2px solid black;
+    border-radius: 12px;
+    width:500px;
+    height:90vh;
+    background-color: rgba(64, 107, 108, 0.537);
+    box-shadow: 4px 4px black;
+    padding:20px;
+    padding-right: 30px;
+}
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center; 
+    margin:10px;
+    padding:10px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+input{
+    width:100px;
+    height:100px;
+    border-radius: 12px;
+    margin:7px;
+    box-shadow: 2px 2px 2px black;
+    font-size:40px;
+    font-family: "Comic Sans MS";
+}
+input:hover{
+    background-color:  rgba(45, 76, 77, 0.991);
+    color: white;
+}
+.input{
+    width:100%;
+    height:85px;
+    border-radius: 12px;
+    font-size:60px;
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.723);
+    margin-bottom:20px;
+}
+.equal{
+    width:220px;
+}
