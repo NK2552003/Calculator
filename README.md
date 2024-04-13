@@ -4,4 +4,4 @@ Welcome to our simple calculator website, your go-to destination for hassle-free
 
 Whether you need to add, subtract, multiply, or divide, our calculator has got you covered. Need to calculate percentages or perform basic algebraic equations? No problem! Our versatile tool can handle various mathematical operations with ease.
 
-link to open the site is here - 
+link to open the site is here - https://nk2552003.github.io/Calculator/
